@@ -1,9 +1,10 @@
 # PortfolioProjects
 ### Portfolio Project Repository
 
-This repository contains the variety of projects  I have created
+This repository contains the variety of projects  I have created.
 
-Projects
+<b>Projects<b>
+<br>
 1.Predictive Analytics and Regression Models
   Airbnb Listings | San Diego (California)
 
