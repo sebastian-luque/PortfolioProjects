@@ -8,5 +8,7 @@ This repository contains the variety of projects  I have created.
 1. Predictive Analytics and Regression Models
   Airbnb Listings | San Diego (California)
   
-2. SQL for Data Analysis -The Orchard Project
+2. SQL for Data Analysis - The Orchard Project
+
+3. Streaming Platforms Data Analysis - Visualization Power BI
 
